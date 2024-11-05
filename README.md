@@ -5,9 +5,14 @@
 - tensorboardX 2.5.1
 - numpy 1.21.6
 
+## Running the code
 
+### Dataset
 
-## Training Model
+- Download the datasets from [here](https://drive.google.com/drive/folders/1WExXXYDY-66bu0umOd4WAipZUtR36X-M?usp=sharing).
+- Create the root directory ./data and put the datasets in.
+
+### Training Model
 
 - Take the GQE model in the FB15k-237 dataset as an example:
 
